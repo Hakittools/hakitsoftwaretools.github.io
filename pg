@@ -1,0 +1,19 @@
+hakittools_site/
+│
+├── index.html
+├── style.css
+├── logo.png  ← (your brand logo)
+├── tools/
+│   ├── decompile-ea.html
+│   ├── reverse-engineering.html
+│   ├── phone-monitor.html
+│   ├── instagram-takedown.html
+│   ├── tiktok-recovery.html
+│   ├── account-leak-check.html
+│   ├── fingerprint-tool.html
+│   ├── apk-decompiler.html
+│   ├── telegram-id.html
+│   └── metadata-analyzer.html
+│
+└── assets/
+    └── (optional images, icons, passwords, docs)
